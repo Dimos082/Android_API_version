@@ -69,7 +69,8 @@ public class AndroidAPIversion
 		} else if ( userInput.equalsIgnoreCase("Android10") || userInput.equalsIgnoreCase("10") || userInput.equalsIgnoreCase("29")) {
 			System.out.println("Android10	10	API level 29");
 		}
-
+	
+			input.close();
     }
 
 }
